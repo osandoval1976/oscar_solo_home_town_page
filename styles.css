@@ -14,14 +14,14 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 25px;
-    border-start-end-radius: 10px solid #6e54ac;
+    
 }
 
 #hero {
     width: 720px;
     height: 1015px;
-    margin-top: 25px;
-    
+    margin-top: 45px;
+    border-start-end-radius: 10px solid #6e54ac;
 }
 
 .vt-img{

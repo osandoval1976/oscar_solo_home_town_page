@@ -41,7 +41,7 @@ background: #1D3557;
 }
 .ct-img{
 display:flex ;
-width: 525px;
+width: 515px;
 font-weight:700px;
 height: 82px;
 top: 119px;
@@ -88,7 +88,8 @@ background-color: #F1FAEE;
 .bd-img{
     width: 130px;
     margin-top: 0px;
-    padding: 0px 5px 0 5px;
+    margin-right: 1px;
+    padding: 0px 8px 0 8px;
     border-radius: 50%;
 }
    

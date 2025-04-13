@@ -20,7 +20,7 @@ body {
 #hero {
     width: 720px;
     height: 1015px;
-    margin-top: 15px;
+    margin-top: -25px;
     
 }
 
@@ -75,7 +75,7 @@ display: flex;
 width: 710px;
 height:400px;
 padding-right:15px;
-margin-top: -25px;
+margin-top: -65px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 background-color: #F1FAEE;
 }

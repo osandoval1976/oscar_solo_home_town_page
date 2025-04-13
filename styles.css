@@ -87,9 +87,9 @@ background-color: #F1FAEE;
 
 .bd-img{
     display: flex;
-    width: 135px;
+    width: 155px;
     align-items: center;
-    height: auto;
+    height:25px ;
     border-radius: 50%;
 }
    

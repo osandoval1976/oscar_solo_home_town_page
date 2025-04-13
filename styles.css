@@ -98,8 +98,8 @@ display:inline-block;
 width: 307px;
 height: 20px;
 padding-top: 80px;
-padding-right: 16px;
-padding-left: 10px;
+padding-right: auto;
+padding-left: auto;
 color: #1D3557;
 font-size: 12px;
 }

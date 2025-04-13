@@ -41,9 +41,9 @@ background: #1D3557;
 }
 .ct-img{
 display:flex ;
-width: 625px;
+width: 525px;
 font-weight:700px;
-height: 52px;
+height: 82px;
 top: 119px;
 border-radius: 10px;
 align-items: center;
@@ -88,7 +88,7 @@ background-color: #F1FAEE;
 .bd-img{
     width: 130px;
     margin-top: 0px;
-    padding: 0px 3px 0 3px
+    padding: 0px 5px 0 5px;
     border-radius: 50%;
 }
    

@@ -29,7 +29,7 @@ body {
 }
 
 .vt-img{
-width: 325px;
+width: 425px;
 height: 42px;
 top: 119px;
 border-radius: 10px;
@@ -41,7 +41,7 @@ background: #1D3557;
 }
 .ct-img{
 display:flex ;
-width: 525px;
+width: 625px;
 font-weight:700px;
 height: 52px;
 top: 119px;
@@ -99,7 +99,7 @@ width: 305px;
 height: 20px;
 padding-top: 80px;
 padding-right: auto;
-padding-left: auto;
+padding-left: 12px;
 color: #1D3557;
 font-size: 12px;
 }

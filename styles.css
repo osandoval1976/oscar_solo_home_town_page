@@ -13,13 +13,15 @@ body {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10px;
+    margin-top:-20px;
     margin-bottom: 10px;
 }
 
 #hero {
     width: 720px;
     height: 1015px;
+    margin-top: 10px;
+    
 }
 
 .vt-img{
@@ -74,7 +76,7 @@ display: flex;
 width: 710px;
 height:400px;
 padding-right:15px;
-margin-top: -65px;
+margin-top: -45px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 background-color: #F1FAEE;
 }

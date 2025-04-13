@@ -94,7 +94,7 @@ background-color: #F1FAEE;
  
 
 .container{
-display:flexbox;
+display:flex;
 width: 307px;
 height: 20px;
 padding-top: 80px;

@@ -76,7 +76,7 @@ img {
 
 #section{
 display: flex;
-width: 714px;
+width: 715px;
 height:400px;
 padding-right:auto;
 padding-left: auto;
@@ -86,9 +86,9 @@ background-color: #F1FAEE;
 }
 
 .bd-img{
-    width: 150px;
+    width: 180px;
     margin-top: 0px;
-    border-radius: 30%;
+    border-radius: 50%;
 }
    
  

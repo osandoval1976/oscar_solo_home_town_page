@@ -86,6 +86,7 @@ background-color: #F1FAEE;
 }
 
 .bd-img{
+    display: flex;
     width: 130px;
     margin-top: 0px;
     margin-bottom: 2px;

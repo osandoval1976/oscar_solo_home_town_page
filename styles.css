@@ -16,6 +16,9 @@ body {
     padding: 25px;
     background: #B8b8b8;
     background: url("images/playas.jpg");
+    background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
 }
 
 #hero {

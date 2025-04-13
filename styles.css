@@ -76,7 +76,7 @@ img {
 
 #section{
 display: flex;
-width: 713px;
+width: 714px;
 height:400px;
 padding-right:auto;
 padding-left: auto;
@@ -98,8 +98,8 @@ display:inline-block;
 width: 325px;
 height: 20px;
 padding-top: 80px;
-padding-right: 14px;
-padding-left: 14px;
+padding-right: auto;
+padding-left: auto;
 color: #1D3557;
 font-size: 12px;
 }

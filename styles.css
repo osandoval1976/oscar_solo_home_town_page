@@ -62,7 +62,7 @@ img {
      background: #FFFFFF;
      text-align: center;
      align-content: center;
-     background-image: url("images/torshov.jpg");
+     background-image: url("images/playas.jpg");
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
@@ -72,10 +72,10 @@ img {
 
 #section{
 display: flex;
-width: 710px;
+width: 720px;
 height:400px;
-padding-right:15px;
-padding-left: 10px;
+padding-right:auto;
+padding-left: auto;
 margin-top: -65px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 background-color: #F1FAEE;
